@@ -7,6 +7,20 @@
 
 ---
 
+## Preview Example
+
+![Example](./Thumpnail%204K/Example.webp)
+
+This is how a GIF looks when embedded in a GitHub README. To use it in your own README, copy one of the URLs below and paste it like this:
+
+**Markdown:**
+```md
+![my wallpaper](PASTE_URL_HERE)
+```
+
+
+---
+
 ## `jia_hagi0826.gif`
 
 | Preview | Details |
@@ -40,4 +54,4 @@
 | `450p/` | Smaller resolution export |
 | `720p/` | 720p export |
 | `720p and 672p/` | Mixed / alternate export folder |
-| `Thumpnail/` | Still WebP previews for README / cards |
+| `Thumpnail 4K/` | Still WebP previews for README / cards |
