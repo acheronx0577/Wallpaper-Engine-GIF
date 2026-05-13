@@ -15,10 +15,13 @@ This is how a GIF looks when embedded in a GitHub README. To use it in your own 
 
 **Markdown:**
 ```md
+<!-- Replace href link below with original picture link if needed -->
 <a href="https://www.instagram.com/jia_hagi0826/" target="_blank">
+  <!-- Replace src below with GIF/image URL below this section if needed -->
   <img src="https://media.githubusercontent.com/media/acheronx0577/Wallpaper-Engine-GIF/main/450p/jia_hagi0826.gif?token=BHTD6RRJDQIOEUFN4GNC4OLKAUINA" alt="Banner by @jia_hagi0826" width="100%" />
 </a>
 <p align="right">
+  <!-- Replace both the href and display text below with your own artist credit -->
   <sub>🎨 Banner by <a href="https://www.instagram.com/jia_hagi0826/">@jia_hagi0826</a></sub>
 </p>
 ```
