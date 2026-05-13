@@ -1,9 +1,9 @@
 # Wallpaper Engine · GIF Showcase
 
-Animated GIFs are tracked with **Git LFS**. After cloning, run `git lfs pull` if files are missing.  
-URLs point at GitHub's `raw` host via `media.githubusercontent.com` — they load and play instantly.  
-When embedded in any GitHub README, issue, or wiki without needing to download the full repo.  
-Just copy the URL for your desired resolution and drop it into an `<img>` tag or Markdown image link.
+- Animated GIFs are tracked with **Git LFS**. After cloning, run `git lfs pull` if files are missing.
+- URLs point at GitHub's `raw` host via `media.githubusercontent.com` — they load and play instantly when embedded in any GitHub README, issue, or wiki without needing to download the full repo.
+- Just copy the URL for your desired resolution and drop it into an `<img>` tag or Markdown image link.
+- ⚠️ Files larger than **30 MB** may load slowly or fail to preview directly on GitHub README — stick to the smaller resolution for inline embedding.
 
 ---
 
@@ -15,8 +15,8 @@ Just copy the URL for your desired resolution and drop it into an `<img>` tag or
 
 | Resolution | Size | URL |
 |------------|------|-----|
-| 450p | `0.00 MB` | `https://media.githubusercontent.com/media/acheronx0577/Wallpaper-Engine-GIF/main/450p/jia_hagi0826.gif?token=BHTD6RSQHBM7PYTL75DKXSDKAUISW` |
-| 672p | `0.00 MB` | `https://media.githubusercontent.com/media/acheronx0577/Wallpaper-Engine-GIF/main/720p%20and%20672p/jia_hagi0826.gif?token=BHTD6RXQ7CV2SRIY2FELCG3KAUITW` |
+| 450p | `26.5 MB` | `https://media.githubusercontent.com/media/acheronx0577/Wallpaper-Engine-GIF/main/450p/jia_hagi0826.gif?token=BHTD6RSQHBM7PYTL75DKXSDKAUISW` |
+| 672p ⚠️ *not recommended* | `72.2 MB` | `https://media.githubusercontent.com/media/acheronx0577/Wallpaper-Engine-GIF/main/720p%20and%20672p/jia_hagi0826.gif?token=BHTD6RXQ7CV2SRIY2FELCG3KAUITW` |
 
 ---
 
@@ -28,8 +28,8 @@ Just copy the URL for your desired resolution and drop it into an `<img>` tag or
 
 | Resolution | Size | URL |
 |------------|------|-----|
-| 450p | `0.00 MB` | `https://media.githubusercontent.com/media/acheronx0577/Wallpaper-Engine-GIF/main/450p/Okkotsu%20Yuta%20Jujutsu%20Kaisen.gif?token=BHTD6RVI3NXY235GWXK5QL3KAUIP6` |
-| 720p | `0.00 MB` | `https://media.githubusercontent.com/media/acheronx0577/Wallpaper-Engine-GIF/main/720p%20and%20672p/Okkotsu%20Yuta%20Jujutsu%20Kaisen.gif?token=BHTD6RVBKZL6347WY5HUUMLKAUIQW` |
+| 450p | `13.7 MB` | `https://media.githubusercontent.com/media/acheronx0577/Wallpaper-Engine-GIF/main/450p/Okkotsu%20Yuta%20Jujutsu%20Kaisen.gif?token=BHTD6RVI3NXY235GWXK5QL3KAUIP6` |
+| 720p | `20.8 MB` | `https://media.githubusercontent.com/media/acheronx0577/Wallpaper-Engine-GIF/main/720p%20and%20672p/Okkotsu%20Yuta%20Jujutsu%20Kaisen.gif?token=BHTD6RVBKZL6347WY5HUUMLKAUIQW` |
 
 ---
 
