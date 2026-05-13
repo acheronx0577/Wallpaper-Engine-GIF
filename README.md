@@ -15,13 +15,13 @@ Animated GIFs in this repo are tracked with **Git LFS**. After you clone, run `g
 **450p**
 
 ```
-https://media.githubusercontent.com/media/acheronx0577/Wallpaper-Engine-GIF/main/450p/jia_hagi0826.gif?token=BHTD6RRJDQIOEUFN4GNC4OLKAUINA
+https://media.githubusercontent.com/media/acheronx0577/Wallpaper-Engine-GIF/main/450p/jia_hagi0826.gif?token=BHTD6RSQHBM7PYTL75DKXSDKAUISW
 ```
 
 **672p**
 
 ```
-https://media.githubusercontent.com/media/acheronx0577/Wallpaper-Engine-GIF/main/450p/Okkotsu%20Yuta%20Jujutsu%20Kaisen.gif?token=BHTD6RVI3NXY235GWXK5QL3KAUIP6
+https://media.githubusercontent.com/media/acheronx0577/Wallpaper-Engine-GIF/main/720p%20and%20672p/jia_hagi0826.gif?token=BHTD6RXQ7CV2SRIY2FELCG3KAUITW
 ```
 
 
