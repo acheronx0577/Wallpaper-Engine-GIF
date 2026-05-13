@@ -1,77 +1,23 @@
-# Wallpaper Engine · GIF showcase
+# Wallpaper Engine · GIF Showcase
 
-Animated GIFs in this repo are tracked with **Git LFS**. After you clone, run `git lfs pull` if files are missing locally. The URLs below point at the same paths on GitHub’s `raw` host so you can copy them for hotlinking or embedding.
-
----
-
-## `jia_hagi0826.gif`
-
-**About the author:** [萩森じあ (Jia Hagimori)](https://facto-design.com/blogs/news/artist_jiahagimori) — illustrator and character designer (light novels, music-video art, and related work). The filename matches her social handle `jia_hagi0826`.
-
-**Links:** [Threads @jia_hagi0826](https://www.threads.net/@jia_hagi0826) · [X / Twitter @jirujiaru826](https://x.com/jirujiaru826) (alternate handle used in some profiles and press)
-
-![jia_hagi0826 thumbnail](./Thumpnail/jia_hagi0826%204K.webp)
-
-**450p**
-
-```
-https://media.githubusercontent.com/media/acheronx0577/Wallpaper-Engine-GIF/main/450p/jia_hagi0826.gif?token=BHTD6RSQHBM7PYTL75DKXSDKAUISW
-```
-
-**672p**
-
-```
-https://media.githubusercontent.com/media/acheronx0577/Wallpaper-Engine-GIF/main/720p%20and%20672p/jia_hagi0826.gif?token=BHTD6RXQ7CV2SRIY2FELCG3KAUITW
-```
-
+Animated GIFs are tracked with **Git LFS**. After cloning, run `git lfs pull` if files are missing.  
+URLs point at GitHub's `raw` host — copy them for hotlinking or embedding.
 
 ---
 
-## `Okkotsu Yuta Jujutsu Kaisen.gif`
+## Showcase
 
-**Subject:** Fan animation / illustration of **Okkotsu Yuta** from [*Jujutsu Kaisen*](https://en.wikipedia.org/wiki/Jujutsu_Kaisen) (manga by Gege Akutami; MAPPA anime).
-
-**Wallpaper Engine:** [Okkotsu Yuta | Jujutsu Kaisen [4k]](https://steamcommunity.com/sharedfiles/filedetails/?id=3707010495) on the Steam Workshop.
-
-**Creator:** [MALF](https://steamcommunity.com/id/malf40) (Steam profile).
-
-![Okkotsu Yuta thumbnail](./Thumpnail/Okkotsu%20Yuta%20Jujutsu%20Kaisen%204K.webp)
-
-**450p**
-
-```
-https://media.githubusercontent.com/media/acheronx0577/Wallpaper-Engine-GIF/main/450p/Okkotsu%20Yuta%20Jujutsu%20Kaisen.gif?token=BHTD6RVI3NXY235GWXK5QL3KAUIP6
-```
-
-**720p**
-
-```
-https://media.githubusercontent.com/media/acheronx0577/Wallpaper-Engine-GIF/main/720p%20and%20672p/Okkotsu%20Yuta%20Jujutsu%20Kaisen.gif?token=BHTD6RVBKZL6347WY5HUUMLKAUIQW
-```
+| Preview | Details | Download |
+|---------|---------|----------|
+| <img src="./Thumpnail/jia_hagi0826%204K.webp" width="160"/> | **`jia_hagi0826.gif`**<br/>**Author:** [萩森じあ (Jia Hagimori)](https://facto-design.com/blogs/news/artist_jiahagimori) — illustrator & character designer (light novels, music-video art).<br/>**Links:** [Threads @jia_hagi0826](https://www.threads.net/@jia_hagi0826) · [X @jirujiaru826](https://x.com/jirujiaru826) | [450p](https://media.githubusercontent.com/media/acheronx0577/Wallpaper-Engine-GIF/main/450p/jia_hagi0826.gif?token=BHTD6RSQHBM7PYTL75DKXSDKAUISW) · [672p](https://media.githubusercontent.com/media/acheronx0577/Wallpaper-Engine-GIF/main/720p%20and%20672p/jia_hagi0826.gif?token=BHTD6RXQ7CV2SRIY2FELCG3KAUITW) |
+| <img src="./Thumpnail/Okkotsu%20Yuta%20Jujutsu%20Kaisen%204K.webp" width="160"/> | **`Okkotsu Yuta Jujutsu Kaisen.gif`**<br/>**Subject:** Fan animation of **Okkotsu Yuta** from [*Jujutsu Kaisen*](https://en.wikipedia.org/wiki/Jujutsu_Kaisen) (Gege Akutami / MAPPA).<br/>**Creator:** [MALF](https://steamcommunity.com/id/malf40) · [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3707010495) | [450p](https://media.githubusercontent.com/media/acheronx0577/Wallpaper-Engine-GIF/main/450p/Okkotsu%20Yuta%20Jujutsu%20Kaisen.gif?token=BHTD6RVI3NXY235GWXK5QL3KAUIP6) · [720p](https://media.githubusercontent.com/media/acheronx0577/Wallpaper-Engine-GIF/main/720p%20and%20672p/Okkotsu%20Yuta%20Jujutsu%20Kaisen.gif?token=BHTD6RVBKZL6347WY5HUUMLKAUIQW) |
 
 ---
 
-## Animated preview in the README (optional)
-
-Using the GIF directly as the preview (heavier than the WebP stills):
-
-```md
-
-<a href="https://www.instagram.com/jia_hagi0826/" target="_blank">
-  <img src="https://media.githubusercontent.com/media/acheronx0577/Wallpaper-Engine-GIF/main/450p/jia_hagi0826.gif?token=BHTD6RSQHBM7PYTL75DKXSDKAUISW" alt="Banner by @jia_hagi0826" width="100%" />
-</a>
-<p align="right">
-  <sub>🎨 Banner by <a href="https://www.instagram.com/jia_hagi0826/">@jia_hagi0826</a></sub>
-</p>
-
-```
-
----
-
-## File map
+## File Map
 
 | Path | Role |
-| --- | --- |
+|------|------|
 | `450p/` | Smaller resolution export |
 | `720p/` | 720p export |
 | `720p and 672p/` | Mixed / alternate export folder |
