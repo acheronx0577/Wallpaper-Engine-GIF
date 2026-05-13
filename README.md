@@ -26,8 +26,8 @@ URLs point at GitHub's `raw` host — copy them for hotlinking or embedding.
 
 | Resolution | URL |
 |------------|-----|
-| 450p | ```https://media.githubusercontent.com/media/acheronx0577/Wallpaper-Engine-GIF/main/450p/Okkotsu%20Yuta%20Jujutsu%20Kaisen.gif?token=BHTD6RVI3NXY235GWXK5QL3KAUIP6``` |
-| 720p | ```https://media.githubusercontent.com/media/acheronx0577/Wallpaper-Engine-GIF/main/720p%20and%20672p/Okkotsu%20Yuta%20Jujutsu%20Kaisen.gif?token=BHTD6RVBKZL6347WY5HUUMLKAUIQW``` |
+| 450p | `https://media.githubusercontent.com/media/acheronx0577/Wallpaper-Engine-GIF/main/450p/Okkotsu%20Yuta%20Jujutsu%20Kaisen.gif?token=BHTD6RVI3NXY235GWXK5QL3KAUIP6` |
+| 720p | `https://media.githubusercontent.com/media/acheronx0577/Wallpaper-Engine-GIF/main/720p%20and%20672p/Okkotsu%20Yuta%20Jujutsu%20Kaisen.gif?token=BHTD6RVBKZL6347WY5HUUMLKAUIQW` |
 
 ---
 
