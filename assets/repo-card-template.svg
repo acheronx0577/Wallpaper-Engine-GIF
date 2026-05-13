@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 460 145" width="460px" height="145px">
+  <rect stroke="#000000" stroke-opacity="0" fill="none" rx="4.5" x="0.5" y="0.5" width="459" height="144"/>
+  <g transform="translate(24, 42)">
+    <svg x="0" y="-18" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#6E93B5" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 22v-4a4.8 4.8 0 0 0-1-3.5c3 0 6-2 6-5.5.08-1.25-.27-2.48-1-3.5.28-1.15.28-2.35 0-3.5 0 0-1 0-3 1.5-2.64-.5-5.36-.5-8 0C6 2 5 2 5 2c-.3 1.15-.3 2.35 0 3.5A5.403 5.403 0 0 0 4 9c0 3.5 3 5.5 6 5.5-.39.49-.68 1.05-.85 1.65-.17.6-.22 1.23-.15 1.85v4"/>
+      <path d="M9 18c-4.51 2-5-2-7-2"/>
+    </svg>
+    <text x="28" y="0" font-family='"Segoe UI", Ubuntu, sans-serif' font-size="14" font-weight="700" fill="#BDDFFF">Wallpaper-Engine-GIF</text>
+  </g>
+  <text x="24" y="76" font-family='"Segoe UI", Ubuntu, sans-serif' font-size="13" font-weight="400" fill="#BDDFFF">Wallpaper Engine GIF showcase,</text>
+  <text x="24" y="98" font-family='"Segoe UI", Ubuntu, sans-serif' font-size="13" font-weight="400" fill="#BDDFFF">tracked via Git LFS.</text>
+  <line x1="250" y1="20" x2="250" y2="125" stroke="#6E93B5" stroke-width="0.5" stroke-opacity="0.4"/>
+  <svg x="260" y="24" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#6E93B5" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="12" cy="12" r="10"/>
+    <polyline points="12 6 12 12 16 14"/>
+  </svg>
+  <text x="286" y="39" font-family='"Segoe UI", Ubuntu, sans-serif' font-size="12" font-weight="400" fill="#6E93B5">Last commit · COMMIT_COUNT commits</text>
+  <text x="260" y="76" font-family='"Segoe UI", Ubuntu, sans-serif' font-size="22" font-weight="700" fill="#BDDFFF">COMMIT_DAY COMMIT_MON COMMIT_YEAR</text>
+  <text x="260" y="100" font-family='"Segoe UI", Ubuntu, sans-serif' font-size="13" font-weight="400" fill="#6E93B5">COMMIT_AGO</text>
+</svg>
