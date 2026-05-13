@@ -1,9 +1,9 @@
 # Wallpaper Engine · GIF Showcase
 
 Animated GIFs are tracked with **Git LFS**. After cloning, run `git lfs pull` if files are missing.  
-URLs point at GitHub's `raw` host via `media.githubusercontent.com` — they load and play instantly  
+URLs point at GitHub's `raw` host via `media.githubusercontent.com` — they load and play instantly.
 
-when embedded in any GitHub README, issue, or wiki without needing to download the full repo.  
+When embedded in any GitHub README, issue, or wiki without needing to download the full repo.  
 Just copy the URL for your desired resolution and drop it into an `<img>` tag or Markdown image link.
 
 ---
