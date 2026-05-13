@@ -7,11 +7,25 @@
 
 ---
 
+## Preview Example
+
+![Example](./Thumpnail%204K/Example.webp)
+
+This is how a GIF looks when embedded in a GitHub README. To use it in your own README, copy one of the URLs below and paste it like this:
+
+**Markdown:**
+```md
+![my wallpaper](PASTE_URL_HERE)
+```
+
+
+---
+
 ## `jia_hagi0826.gif`
 
 | Preview | Details |
 |---------|---------|
-| <img src="./Thumpnail/jia_hagi0826%204K.webp" width="350"/> | **Author:** [萩森じあ (Jia Hagimori)](https://facto-design.com/blogs/news/artist_jiahagimori) — illustrator & character designer (light novels, music-video art).<br/><br/>**Links:** [Threads @jia_hagi0826](https://www.threads.net/@jia_hagi0826) · [X @jirujiaru826](https://x.com/jirujiaru826) |
+| <img src="./Thumpnail 4K/jia_hagi0826%204K.webp" width="350"/> | **Author:** [萩森じあ (Jia Hagimori)](https://facto-design.com/blogs/news/artist_jiahagimori) — illustrator & character designer (light novels, music-video art).<br/><br/>**Links:** [Threads @jia_hagi0826](https://www.threads.net/@jia_hagi0826) · [X @jirujiaru826](https://x.com/jirujiaru826) |
 
 | Resolution | Size | URL |
 |------------|------|-----|
@@ -24,7 +38,7 @@
 
 | Preview | Details |
 |---------|---------|
-| <img src="./Thumpnail/Okkotsu%20Yuta%20Jujutsu%20Kaisen%204K.webp" width="350"/> | **Subject:** Fan animation of **Okkotsu Yuta** from [*Jujutsu Kaisen*](https://en.wikipedia.org/wiki/Jujutsu_Kaisen) (Gege Akutami / MAPPA).<br/><br/>**Creator:** [MALF](https://steamcommunity.com/id/malf40) · [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3707010495) |
+| <img src="./Thumpnail 4K/Okkotsu%20Yuta%20Jujutsu%20Kaisen%204K.webp" width="350"/> | **Subject:** Fan animation of **Okkotsu Yuta** from [*Jujutsu Kaisen*](https://en.wikipedia.org/wiki/Jujutsu_Kaisen) (Gege Akutami / MAPPA).<br/><br/>**Creator:** [MALF](https://steamcommunity.com/id/malf40) · [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3707010495) |
 
 | Resolution | Size | URL |
 |------------|------|-----|
@@ -40,4 +54,4 @@
 | `450p/` | Smaller resolution export |
 | `720p/` | 720p export |
 | `720p and 672p/` | Mixed / alternate export folder |
-| `Thumpnail/` | Still WebP previews for README / cards |
+| `Thumpnail 4K/` | Still WebP previews for README / cards |
