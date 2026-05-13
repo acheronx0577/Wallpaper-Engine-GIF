@@ -80,3 +80,5 @@ Want to add your GIF to this showcase? Open an [Issue](https://github.com/achero
 > Please make sure you have the right to share the content and always credit the original artist. ❤️
 
 > 🛠️ Need help? If you have a GIF but don't have a 4K thumbnail or need it converted to `.webp`, feel free to open an [Issue](https://github.com/acheronx0577/Wallpaper-Engine-GIF/issues) and [**@acheronx0577**](https://github.com/acheronx0577) can help upscale the thumbnail and convert it for you.
+
+> ⚠️ Please try to keep the GIF **under 30 MB** for both 450p and 720p — files above that can be slow to load or fail to preview directly in a GitHub README. 
