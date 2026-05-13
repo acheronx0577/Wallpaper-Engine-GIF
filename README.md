@@ -31,7 +31,7 @@ https://raw.githubusercontent.com/acheronx0577/Wallpaper-Engine-GIF/main/720p/ji
 
 **Subject:** Fan animation / illustration of **Okkotsu Yuta** from [*Jujutsu Kaisen*](https://en.wikipedia.org/wiki/Jujutsu_Kaisen) (manga by Gege Akutami; MAPPA anime).
 
-**About the author:** [萩森じあ (Jia Hagimori)](https://facto-design.com/blogs/news/artist_jiahagimori) — same creator line-up as the matching pieces in this repo; social: [Threads @jia_hagi0826](https://www.threads.net/@jia_hagi0826), [X @jirujiaru826](https://x.com/jirujiaru826).
+**About the author:** [Math](https://steamcommunity.com/id/malf40) — same creator line-up as the matching pieces in this repo; social: [Threads @jia_hagi0826](https://www.threads.net/@jia_hagi0826), [X @jirujiaru826](https://x.com/jirujiaru826).
 
 ![Okkotsu Yuta thumbnail](./Thumpnail/Okkotsu%20Yuta%20Jujutsu%20Kaisen%204K.webp)
 
