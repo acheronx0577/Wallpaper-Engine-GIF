@@ -55,8 +55,15 @@ https://raw.githubusercontent.com/acheronx0577/Wallpaper-Engine-GIF/main/720p/Ok
 
 Using the GIF directly as the preview (heavier than the WebP stills):
 
-```markdown
-![jia_hagi0826](https://raw.githubusercontent.com/acheronx0577/Wallpaper-Engine-GIF/main/720p/jia_hagi0826.gif)
+```md
+
+<a href="https://www.instagram.com/jia_hagi0826/" target="_blank">
+  <img src="https://media.githubusercontent.com/media/acheronx0577/New-folder--2-/main/635loop_Export-ezgif.com-resize.gif?token=BHTD6RV6VOJ3O6BRTE5URVDKAT2ZC" alt="Banner by @jia_hagi0826" width="100%" />
+</a>
+<p align="right">
+  <sub>🎨 Banner by <a href="https://www.instagram.com/jia_hagi0826/">@jia_hagi0826</a></sub>
+</p>
+
 ```
 
 ---
