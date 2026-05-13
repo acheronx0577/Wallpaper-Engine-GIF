@@ -15,13 +15,13 @@ Animated GIFs in this repo are tracked with **Git LFS**. After you clone, run `g
 **450p**
 
 ```
-https://raw.githubusercontent.com/acheronx0577/Wallpaper-Engine-GIF/main/450p/jia_hagi0826.gif
+https://media.githubusercontent.com/media/acheronx0577/Wallpaper-Engine-GIF/main/450p/jia_hagi0826.gif?token=BHTD6RRJDQIOEUFN4GNC4OLKAUINA
 ```
 
 **672p**
 
 ```
-https://raw.githubusercontent.com/acheronx0577/Wallpaper-Engine-GIF/main/720p/jia_hagi0826.gif
+https://media.githubusercontent.com/media/acheronx0577/Wallpaper-Engine-GIF/main/450p/Okkotsu%20Yuta%20Jujutsu%20Kaisen.gif?token=BHTD6RVI3NXY235GWXK5QL3KAUIP6
 ```
 
 
@@ -40,13 +40,13 @@ https://raw.githubusercontent.com/acheronx0577/Wallpaper-Engine-GIF/main/720p/ji
 **450p**
 
 ```
-https://raw.githubusercontent.com/acheronx0577/Wallpaper-Engine-GIF/main/450p/Okkotsu%20Yuta%20Jujutsu%20Kaisen.gif
+https://media.githubusercontent.com/media/acheronx0577/Wallpaper-Engine-GIF/main/450p/Okkotsu%20Yuta%20Jujutsu%20Kaisen.gif?token=BHTD6RVI3NXY235GWXK5QL3KAUIP6
 ```
 
 **720p**
 
 ```
-https://raw.githubusercontent.com/acheronx0577/Wallpaper-Engine-GIF/main/720p/Okkotsu%20Yuta%20Jujutsu%20Kaisen.gif
+https://media.githubusercontent.com/media/acheronx0577/Wallpaper-Engine-GIF/main/720p%20and%20672p/Okkotsu%20Yuta%20Jujutsu%20Kaisen.gif?token=BHTD6RVBKZL6347WY5HUUMLKAUIQW
 ```
 
 ---
