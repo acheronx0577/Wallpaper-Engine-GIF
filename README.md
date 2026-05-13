@@ -63,3 +63,18 @@ This is how a GIF looks when embedded in a GitHub README from [**@acheronx0577**
 | `720p/` | 720p export |
 | `720p and 672p/` | Mixed / alternate export folder |
 | `Thumpnail 4K/` | Still WebP previews for README / cards |
+
+---
+
+## 📬 Submit a GIF
+
+Want to add your GIF to this showcase? Open an [Issue](https://github.com/acheronx0577/Wallpaper-Engine-GIF/issues) or submit a [Pull Request](https://github.com/acheronx0577/Wallpaper-Engine-GIF/pulls) with the following:
+
+| Field | Details |
+|-------|---------|
+| **GIF file** | Export at 450p minimum, 720p preferred |
+| **Thumbnail** | A still `.webp` preview at 4K resolution |
+| **Author / Source** | Original artist name + link (Instagram, X, Threads, etc.) |
+| **Subject** | Brief description of what the GIF depicts |
+
+> Please make sure you have the right to share the content and always credit the original artist. ❤️
