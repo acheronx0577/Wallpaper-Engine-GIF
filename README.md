@@ -33,7 +33,7 @@ This is how a GIF looks when embedded in a GitHub README from [**@acheronx0577**
 
 | Preview | Details |
 |---------|---------|
-| <img src="./Thumpnail 4K/jia_hagi0826%204K.webp" width="350"/> | **Author:** [萩森じあ (Jia Hagimori)](https://facto-design.com/blogs/news/artist_jiahagimori) — illustrator & character designer (light novels, music-video art).<br/><br/>**Links:** [Threads @jia_hagi0826](https://www.threads.net/@jia_hagi0826) · [X @jirujiaru826](https://x.com/jirujiaru826) |
+| <img src="./Thumpnail 4K/jia_hagi0826%204K.webp" width="360"/> | **Author:** [萩森じあ (Jia Hagimori)](https://facto-design.com/blogs/news/artist_jiahagimori) — illustrator & character designer (light novels, music-video art).<br/><br/>**Links:** [Threads @jia_hagi0826](https://www.threads.net/@jia_hagi0826) · [X @jirujiaru826](https://x.com/jirujiaru826) |
 
 | Resolution | Size | URL |
 |------------|------|-----|
