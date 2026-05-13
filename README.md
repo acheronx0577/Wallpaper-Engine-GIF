@@ -9,7 +9,7 @@ URLs point at GitHub's `raw` host — copy them for hotlinking or embedding.
 
 | Preview | Details |
 |---------|---------|
-| <img src="./Thumpnail/jia_hagi0826%204K.webp" width="160"/> | **Author:** [萩森じあ (Jia Hagimori)](https://facto-design.com/blogs/news/artist_jiahagimori) — illustrator & character designer (light novels, music-video art).<br/><br/>**Links:** [Threads @jia_hagi0826](https://www.threads.net/@jia_hagi0826) · [X @jirujiaru826](https://x.com/jirujiaru826) |
+| <img src="./Thumpnail/jia_hagi0826%204K.webp" width="250"/> | **Author:** [萩森じあ (Jia Hagimori)](https://facto-design.com/blogs/news/artist_jiahagimori) — illustrator & character designer (light novels, music-video art).<br/><br/>**Links:** [Threads @jia_hagi0826](https://www.threads.net/@jia_hagi0826) · [X @jirujiaru826](https://x.com/jirujiaru826) |
 
 | Resolution | URL |
 |------------|-----|
@@ -22,7 +22,7 @@ URLs point at GitHub's `raw` host — copy them for hotlinking or embedding.
 
 | Preview | Details |
 |---------|---------|
-| <img src="./Thumpnail/Okkotsu%20Yuta%20Jujutsu%20Kaisen%204K.webp" width="160"/> | **Subject:** Fan animation of **Okkotsu Yuta** from [*Jujutsu Kaisen*](https://en.wikipedia.org/wiki/Jujutsu_Kaisen) (Gege Akutami / MAPPA).<br/><br/>**Creator:** [MALF](https://steamcommunity.com/id/malf40) · [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3707010495) |
+| <img src="./Thumpnail/Okkotsu%20Yuta%20Jujutsu%20Kaisen%204K.webp" width="250"/> | **Subject:** Fan animation of **Okkotsu Yuta** from [*Jujutsu Kaisen*](https://en.wikipedia.org/wiki/Jujutsu_Kaisen) (Gege Akutami / MAPPA).<br/><br/>**Creator:** [MALF](https://steamcommunity.com/id/malf40) · [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3707010495) |
 
 | Resolution | URL |
 |------------|-----|
