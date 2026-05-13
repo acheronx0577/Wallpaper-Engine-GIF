@@ -11,7 +11,7 @@
 
 ![Example](./Thumpnail%204K/Example.webp)
 
-This is how a GIF looks when embedded in a GitHub README from [@acheronx0577](https://github.com/acheronx0577). To use it in your own README, copy one of the URLs below and paste it like this:
+This is how a GIF looks when embedded in a GitHub README from [**@acheronx0577**](https://github.com/acheronx0577). To use it in your own README, copy one of the URLs below and paste it like this:
 
 **Markdown:**
 ```md
