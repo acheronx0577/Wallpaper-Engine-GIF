@@ -69,7 +69,6 @@ This is how a GIF looks when embedded in a GitHub README from [**@acheronx0577**
 |------|------|
 | `450p/` | Smaller resolution export |
 | `720p/` | 720p export |
-| `720p and 672p/` | Mixed / alternate export folder |
 | `Thumpnail 4K/` | Still WebP previews for README / cards |
 
 ---
