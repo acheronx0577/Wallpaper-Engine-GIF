@@ -46,7 +46,7 @@ This is how a GIF looks when embedded in a GitHub README from [**@acheronx0577**
 | Resolution | Size | URL |
 |------------|------|-----|
 | 450p | `11.3 MB` | `https://media.githubusercontent.com/media/acheronx0577/Wallpaper-Engine-GIF/main/450p/jia_hagi0826_450P.gif` |
-| 672p ⚠️ *not recommended* | `72.2 MB` | `https://media.githubusercontent.com/media/acheronx0577/Wallpaper-Engine-GIF/main/720p%20and%20672p/jia_hagi0826.gif?token=BHTD6RXQ7CV2SRIY2FELCG3KAUITW` |
+| 720p | `30 MB` | `https://media.githubusercontent.com/media/acheronx0577/Wallpaper-Engine-GIF/main/720p/jia_hagi0826_720p.gif` |
 
 ---
 
