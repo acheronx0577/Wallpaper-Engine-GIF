@@ -12,7 +12,7 @@
 <!-- Replace href link below with original picture link if needed -->
 <a href="https://www.instagram.com/jia_hagi0826/" target="_blank">
   <!-- Replace src below with GIF/image URL below this section if needed -->
-  <img src="https://media.githubusercontent.com/media/acheronx0577/Wallpaper-Engine-GIF/main/450p/jia_hagi0826.gif?token=BHTD6RRJDQIOEUFN4GNC4OLKAUINA" alt="Banner by @jia_hagi0826" width="100%" />
+  <img src="https://media.githubusercontent.com/media/acheronx0577/Wallpaper-Engine-GIF/main/450p/jia_hagi0826_450P.gif" alt="Banner by @jia_hagi0826" width="100%" />
 </a>
 <p align="right">
   <!-- Replace both the href and display text below with your own artist credit -->
@@ -45,7 +45,7 @@ This is how a GIF looks when embedded in a GitHub README from [**@acheronx0577**
 
 | Resolution | Size | URL |
 |------------|------|-----|
-| 450p | `26.5 MB` | `https://media.githubusercontent.com/media/acheronx0577/Wallpaper-Engine-GIF/main/450p/jia_hagi0826.gif?token=BHTD6RSQHBM7PYTL75DKXSDKAUISW` |
+| 450p | `11.3 MB` | `https://media.githubusercontent.com/media/acheronx0577/Wallpaper-Engine-GIF/main/450p/jia_hagi0826_450P.gif` |
 | 672p ⚠️ *not recommended* | `72.2 MB` | `https://media.githubusercontent.com/media/acheronx0577/Wallpaper-Engine-GIF/main/720p%20and%20672p/jia_hagi0826.gif?token=BHTD6RXQ7CV2SRIY2FELCG3KAUITW` |
 
 ---
