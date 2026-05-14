@@ -8,7 +8,7 @@
     <text x="28" y="0" font-family='"Segoe UI", Ubuntu, sans-serif' font-size="14" font-weight="700" fill="#BDDFFF">Wallpaper-Engine-GIF</text>
   </g>
   <text x="24" y="76" font-family='"Segoe UI", Ubuntu, sans-serif' font-size="13" font-weight="400" fill="#BDDFFF">Wallpaper Engine GIF showcase,</text>
-  <text x="24" y="98" font-family='"Segoe UI", Ubuntu, sans-serif' font-size="13" font-weight="400" fill="#BDDFFF">tracked via Git LFS.</text>
+  <text x="24" y="98" font-family='"Segoe UI", Ubuntu, sans-serif' font-size="13" font-weight="400" fill="#BDDFFF">made for Github ReadME.</text>
   <line x1="250" y1="20" x2="250" y2="125" stroke="#6E93B5" stroke-width="0.5" stroke-opacity="0.4"/>
   <svg x="260" y="24" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#6E93B5" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
     <circle cx="12" cy="12" r="10"/>
