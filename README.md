@@ -101,14 +101,14 @@ Footer-width animated strips (koi pond / bond theme), exported at three heights.
 
 ## Source · `.MOV` masters
 
-Higher-quality sources for Wallpaper Engine, re-encoding, or editing. GitHub does not play `.mov` inline in README — use **View raw** / download or clone with **Git LFS**. Each row shows the **same still** as the matching GIF section so you can copy the right `.mov` URL at a glance.
+Higher-quality sources for Wallpaper Engine, re-encoding, or editing. GitHub does not play `.mov` inline in README — use **View raw** / download or clone with **Git LFS**. Stills match the GIF sections so you can pair the right file.
 
-| Preview | `.MOV` file | Size | URL |
-|---------|-------------|------|-----|
-| <img src="./Thumpnail 4K/jia_hagi0826%204K.webp" width="200" alt="Still: jia_hagi0826"/> | `jia_hagi0826.MOV` | `11.8 MB` | `https://media.githubusercontent.com/media/acheronx0577/Wallpaper-Engine-GIF/main/MOV/jia_hagi0826.MOV` |
-| <img src="./Thumpnail 4K/Koi_Fish_Bond.webp" width="200" alt="Still: Koi_Fish_Bond"/> | `Koi_Fish_Bond.MOV` | `5.1 MB` | `https://media.githubusercontent.com/media/acheronx0577/Wallpaper-Engine-GIF/main/MOV/Koi_Fish_Bond.MOV` |
-| <img src="./Thumpnail 4K/Okkotsu%20Yuta%20Jujutsu%20Kaisen%204K%20LightMode.webp" width="200" alt="Still: Okkotsu LightMode"/> | `Okkotsu_Yuta_Jujutsu_Kaisen_LightMode.mov` | `17.2 MB` | `https://media.githubusercontent.com/media/acheronx0577/Wallpaper-Engine-GIF/main/MOV/Okkotsu_Yuta_Jujutsu_Kaisen_LightMode.mov` |
-| <img src="./Thumpnail 4K/Okkotsu%20Yuta%20Jujutsu%20Kaisen%204K%20DarkMode.webp" width="200" alt="Still: Okkotsu DarkMode"/> | `Okkotsu_Yuta_Jujutsu_Kaisen_DarkMode.mov` | `6.9 MB` | `https://media.githubusercontent.com/media/acheronx0577/Wallpaper-Engine-GIF/main/MOV/Okkotsu_Yuta_Jujutsu_Kaisen_DarkMode.mov` |
+| Preview | Details |
+|---------|---------|
+| <img src="./Thumpnail 4K/jia_hagi0826%204K.webp" width="350" alt="Still: jia_hagi0826 (MOV)"/> | **File:** `jia_hagi0826.MOV`<br/><br/>**Size:** `11.8 MB`<br/><br/>**URL:** `https://media.githubusercontent.com/media/acheronx0577/Wallpaper-Engine-GIF/main/MOV/jia_hagi0826.MOV` |
+| <img src="./Thumpnail 4K/Koi_Fish_Bond.webp" width="350" alt="Still: Koi_Fish_Bond (MOV)"/> | **File:** `Koi_Fish_Bond.MOV`<br/><br/>**Size:** `5.1 MB`<br/><br/>**URL:** `https://media.githubusercontent.com/media/acheronx0577/Wallpaper-Engine-GIF/main/MOV/Koi_Fish_Bond.MOV` |
+| <img src="./Thumpnail 4K/Okkotsu%20Yuta%20Jujutsu%20Kaisen%204K%20LightMode.webp" width="350" alt="Still: Okkotsu LightMode (MOV)"/> | **File:** `Okkotsu_Yuta_Jujutsu_Kaisen_LightMode.mov`<br/><br/>**Size:** `17.2 MB`<br/><br/>**URL:** `https://media.githubusercontent.com/media/acheronx0577/Wallpaper-Engine-GIF/main/MOV/Okkotsu_Yuta_Jujutsu_Kaisen_LightMode.mov` |
+| <img src="./Thumpnail 4K/Okkotsu%20Yuta%20Jujutsu%20Kaisen%204K%20DarkMode.webp" width="350" alt="Still: Okkotsu DarkMode (MOV)"/> | **File:** `Okkotsu_Yuta_Jujutsu_Kaisen_DarkMode.mov`<br/><br/>**Size:** `6.9 MB`<br/><br/>**URL:** `https://media.githubusercontent.com/media/acheronx0577/Wallpaper-Engine-GIF/main/MOV/Okkotsu_Yuta_Jujutsu_Kaisen_DarkMode.mov` |
 
 ---
 
