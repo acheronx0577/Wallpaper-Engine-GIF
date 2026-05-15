@@ -45,7 +45,7 @@ This is how a GIF looks when embedded in a GitHub README from [**@acheronx0577**
 
 ## Collapsible catalog
 
-<div align="center">
+<div align="left">
   <p><strong>Click here</strong></p>
   <p><span style="font-size: 2em; line-height: 1;">▼</span></p>
   <p><small>Under this arrow, each row shows <strong>▸</strong> on the left — <strong>click the gray bar</strong> to open thumbnails and raw URLs (click again to close).</small></p>
