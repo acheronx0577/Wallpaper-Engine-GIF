@@ -69,7 +69,7 @@ Footer-width animated strips (koi pond / bond theme), exported at three heights.
 
 | Preview | Details |
 |---------|---------|
-| *No WebP thumbnail yet* | **Subject:** Koi pond / bond-style footer animation.<br/><br/>**Preview:** Use the **450p** raw URL below (or open `Footer/450p/Koi_Fish_Bond_450p.gif` locally). Add a still under `Thumpnail 4K/` for a lightweight card like the other GIFs in this README. |
+| <img src="./Thumpnail 4K/Koi_Fish_Bond.webp" width="400" alt="Koi Fish Bond (still preview)"/> | **Subject:** Koi pond / bond-style footer animation. |
 
 | Resolution | Size | URL |
 |------------|------|-----|
