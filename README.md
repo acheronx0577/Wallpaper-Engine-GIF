@@ -1,6 +1,6 @@
 # Wallpaper Engine · GIF Showcase
 
-- Animated GIFs are tracked with **Git LFS**. After cloning, run `git lfs pull` if files are missing.
+- Animated GIFs and **source `.MOV` clips** are tracked with **Git LFS**. After cloning, run `git lfs pull` if files are missing.
 - URLs point at GitHub's `raw` host via `media.githubusercontent.com` — they load and play instantly when embedded in any GitHub README, issue, or wiki without needing to download the full repo.
 - Just copy the URL for your desired resolution and drop it into an `<img>` tag or Markdown image link.
 - ⚠️ Files larger than **30 MB** may load slowly or fail to preview directly on GitHub README — stick to the smaller resolution for inline embedding.
@@ -33,7 +33,7 @@ This is how a GIF looks when embedded in a GitHub README from [**@acheronx0577**
 <!-- Replace href link below with original picture link if needed -->
 <a href="https://www.instagram.com/jia_hagi0826/" target="_blank">
   <!-- Replace src below with GIF/image URL below this section if needed -->
-  <img src="https://media.githubusercontent.com/media/acheronx0577/Wallpaper-Engine-GIF/main/450p/jia_hagi0826.gif?token=BHTD6RRJDQIOEUFN4GNC4OLKAUINA" alt="Banner by @jia_hagi0826" width="100%" />
+  <img src="https://media.githubusercontent.com/media/acheronx0577/Wallpaper-Engine-GIF/main/450p/jia_hagi0826_450P.gif" alt="Banner by @jia_hagi0826" width="100%" />
 </a>
 <p align="right">
   <!-- Replace both the href and display text below with your own artist credit -->
@@ -53,20 +53,20 @@ This is how a GIF looks when embedded in a GitHub README from [**@acheronx0577**
 | Resolution | Size | URL |
 |------------|------|-----|
 | 450p | `11.3 MB` | `https://media.githubusercontent.com/media/acheronx0577/Wallpaper-Engine-GIF/main/450p/jia_hagi0826_450P.gif` |
-| 720p | `30 MB` | `https://media.githubusercontent.com/media/acheronx0577/Wallpaper-Engine-GIF/main/720p%20or%20672p/jia_hagi0826_720p.gif` |
+| 720p | `29.2 MB` | `https://media.githubusercontent.com/media/acheronx0577/Wallpaper-Engine-GIF/main/720p%20or%20672p/jia_hagi0826_720p.gif` |
 
 ---
 
-## `Okkotsu Yuta Jujutsu Kaisen.gif`
+## `Okkotsu Yuta` · JJK · LightMode
 
 | Preview | Details |
 |---------|---------|
-| <img src="./Thumpnail 4K/Okkotsu%20Yuta%20Jujutsu%20Kaisen%204K.webp" width="350"/> | **Subject:** Fan animation of **Okkotsu Yuta** from [*Jujutsu Kaisen*](https://en.wikipedia.org/wiki/Jujutsu_Kaisen) (Gege Akutami / MAPPA).<br/><br/>**Creator:** [MALF](https://steamcommunity.com/id/malf40) · [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3707010495) |
+| <img src="./Thumpnail 4K/Okkotsu%20Yuta%20Jujutsu%20Kaisen%204K%20LightMode.webp" width="350" alt="Okkotsu Yuta LightMode (still preview)"/> | **Subject:** Fan animation of **Okkotsu Yuta** from [*Jujutsu Kaisen*](https://en.wikipedia.org/wiki/Jujutsu_Kaisen) (Gege Akutami / MAPPA).<br/><br/>**Variant:** **LightMode** — brighter grade for light wallpapers / daytime use.<br/><br/>**Creator:** [MALF](https://steamcommunity.com/id/malf40) · [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3707010495) |
 
 | Resolution | Size | URL |
 |------------|------|-----|
-| 450p | `13.7 MB` | `https://media.githubusercontent.com/media/acheronx0577/Wallpaper-Engine-GIF/main/450p/Okkotsu%20Yuta%20Jujutsu%20Kaisen.gif?token=BHTD6RVI3NXY235GWXK5QL3KAUIP6` |
-| 720p | `20.8 MB` | `https://media.githubusercontent.com/media/acheronx0577/Wallpaper-Engine-GIF/main/720p%20or%20672p/Okkotsu%20Yuta%20Jujutsu%20Kaisen.gif?token=BHTD6RVBKZL6347WY5HUUMLKAUIQW` |
+| 450p | `9.4 MB` | `https://media.githubusercontent.com/media/acheronx0577/Wallpaper-Engine-GIF/main/450p/Okkotsu_Yuta_450p_LightMode.gif` |
+| 720p | `22.2 MB` | `https://media.githubusercontent.com/media/acheronx0577/Wallpaper-Engine-GIF/main/720p%20or%20672p/Okkotsu_Yuta_720p_LightMode.gif` |
 
 ---
 
@@ -86,6 +86,18 @@ Footer-width animated strips (koi pond / bond theme), exported at three heights.
 
 ---
 
+## Source · `.MOV` masters
+
+Higher-quality sources for Wallpaper Engine, re-encoding, or editing. GitHub does not play `.mov` inline in README — use **View raw** / download or clone with **Git LFS**.
+
+| Clip | Size | URL |
+|------|------|-----|
+| jia_hagi0826 | `11.8 MB` | `https://media.githubusercontent.com/media/acheronx0577/Wallpaper-Engine-GIF/main/MOV/jia_hagi0826.MOV` |
+| Koi_Fish_Bond | `5.1 MB` | `https://media.githubusercontent.com/media/acheronx0577/Wallpaper-Engine-GIF/main/MOV/Koi_Fish_Bond.MOV` |
+| Okkotsu Yuta · LightMode | `17.2 MB` | `https://media.githubusercontent.com/media/acheronx0577/Wallpaper-Engine-GIF/main/MOV/Okkotsu_Yuta_Jujutsu_Kaisen_LightMode.mov` |
+
+---
+
 ## File Map
 
 | Path | Role |
@@ -95,6 +107,7 @@ Footer-width animated strips (koi pond / bond theme), exported at three heights.
 | `Footer/450p/` | Footer strip — 450p |
 | `Footer/720p/` | Footer strip — 720p |
 | `Footer/1080p/` | Footer strip — 1080p (heavy; over typical README embed limit) |
+| `MOV/` | Source QuickTime / intermediate masters |
 | `Thumpnail 4K/` | Still WebP previews for README / cards |
 
 ---
