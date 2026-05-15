@@ -45,11 +45,11 @@ This is how a GIF looks when embedded in a GitHub README from [**@acheronx0577**
 
 ## Collapsible catalog
 
-<p align="left">
-  <strong>Click here</strong><br><br>
-  <span style="font-size: 2em; line-height: 1;">▼</span><br>
-  <sub><strong>▸</strong> triangle — <strong>click that gray bar</strong> to open URLs and tables.</sub>
-</p>
+<div align="center">
+  <p><strong>Click here</strong></p>
+  <p><span style="font-size: 2em; line-height: 1;">▼</span></p>
+  <p><small>Under this arrow, each row shows <strong>▸</strong> on the left — <strong>click the gray bar</strong> to open thumbnails and raw URLs (click again to close).</small></p>
+</div>
 
 <details>
 <summary><strong><code>jia_hagi0826.gif</code></strong> — author, resolutions, raw URLs</summary>
