@@ -12,7 +12,7 @@
 <!-- Replace href link below with original picture link if needed -->
 <a href="https://www.instagram.com/jia_hagi0826/" target="_blank">
   <!-- Replace src below with GIF/image URL below this section if needed -->
-  <img src="https://media.githubusercontent.com/media/acheronx0577/Wallpaper-Engine-GIF/main/720p/jia_hagi0826_720p.gif" alt="Banner by @jia_hagi0826" width="100%" />
+  <img src="https://media.githubusercontent.com/media/acheronx0577/Wallpaper-Engine-GIF/main/720p%20or%20672p/jia_hagi0826_720p.gif" alt="Banner by @jia_hagi0826" width="100%" />
 </a>
 <p align="right">
   <!-- Replace both the href and display text below with your own artist credit -->
@@ -46,7 +46,7 @@ This is how a GIF looks when embedded in a GitHub README from [**@acheronx0577**
 | Resolution | Size | URL |
 |------------|------|-----|
 | 450p | `11.3 MB` | `https://media.githubusercontent.com/media/acheronx0577/Wallpaper-Engine-GIF/main/450p/jia_hagi0826_450P.gif` |
-| 720p | `30 MB` | `https://media.githubusercontent.com/media/acheronx0577/Wallpaper-Engine-GIF/main/720p/jia_hagi0826_720p.gif` |
+| 720p | `30 MB` | `https://media.githubusercontent.com/media/acheronx0577/Wallpaper-Engine-GIF/main/720p%20or%20672p/jia_hagi0826_720p.gif` |
 
 ---
 
@@ -59,7 +59,23 @@ This is how a GIF looks when embedded in a GitHub README from [**@acheronx0577**
 | Resolution | Size | URL |
 |------------|------|-----|
 | 450p | `13.7 MB` | `https://media.githubusercontent.com/media/acheronx0577/Wallpaper-Engine-GIF/main/450p/Okkotsu%20Yuta%20Jujutsu%20Kaisen.gif?token=BHTD6RVI3NXY235GWXK5QL3KAUIP6` |
-| 720p | `20.8 MB` | `https://media.githubusercontent.com/media/acheronx0577/Wallpaper-Engine-GIF/main/720p%20and%20672p/Okkotsu%20Yuta%20Jujutsu%20Kaisen.gif?token=BHTD6RVBKZL6347WY5HUUMLKAUIQW` |
+| 720p | `20.8 MB` | `https://media.githubusercontent.com/media/acheronx0577/Wallpaper-Engine-GIF/main/720p%20or%20672p/Okkotsu%20Yuta%20Jujutsu%20Kaisen.gif?token=BHTD6RVBKZL6347WY5HUUMLKAUIQW` |
+
+---
+
+## Footer · `Koi_Fish_Bond` GIFs
+
+Footer-width animated strips (koi pond / bond theme), exported at three heights. The **1080p** file is over **30 MB** — prefer **450p** or **720p** for embedding in a GitHub README; use 1080p when you need the extra detail locally or in Wallpaper Engine.
+
+| Preview | Details |
+|---------|---------|
+| *No WebP thumbnail yet* | **Subject:** Koi pond / bond-style footer animation.<br/><br/>**Preview:** Use the **450p** raw URL below (or open `Footer/450p/Koi_Fish_Bond_450p.gif` locally). Add a still under `Thumpnail 4K/` for a lightweight card like the other GIFs in this README. |
+
+| Resolution | Size | URL |
+|------------|------|-----|
+| 450p | `7.3 MB` | `https://media.githubusercontent.com/media/acheronx0577/Wallpaper-Engine-GIF/main/Footer/450p/Koi_Fish_Bond_450p.gif` |
+| 720p | `18.4 MB` | `https://media.githubusercontent.com/media/acheronx0577/Wallpaper-Engine-GIF/main/Footer/720p/Koi_Fish_Bond_720P.gif` |
+| 1080p | `40.0 MB` | `https://media.githubusercontent.com/media/acheronx0577/Wallpaper-Engine-GIF/main/Footer/1080p/Koi_Fish_Bond_1080P.gif` |
 
 ---
 
@@ -68,7 +84,10 @@ This is how a GIF looks when embedded in a GitHub README from [**@acheronx0577**
 | Path | Role |
 |------|------|
 | `450p/` | Smaller resolution export |
-| `720p/` | 720p export |
+| `720p or 672p/` | 720p / 672p-tall exports (shared folder) |
+| `Footer/450p/` | Footer strip — 450p |
+| `Footer/720p/` | Footer strip — 720p |
+| `Footer/1080p/` | Footer strip — 1080p (heavy; over typical README embed limit) |
 | `Thumpnail 4K/` | Still WebP previews for README / cards |
 
 ---
