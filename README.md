@@ -41,8 +41,14 @@ This is how a GIF looks when embedded in a GitHub README from [**@acheronx0577**
 </p>
 ```
 
-
 ---
+
+## Collapsible catalog
+
+The blocks below use GitHub’s built-in **`<details>`** toggles (click the bar to expand). Everything above stays open so previews and tips stay visible.
+
+<details>
+<summary><strong><code>jia_hagi0826.gif</code></strong> — author, resolutions, raw URLs</summary>
 
 ## `jia_hagi0826.gif`
 
@@ -55,7 +61,10 @@ This is how a GIF looks when embedded in a GitHub README from [**@acheronx0577**
 | 450p | `11.3 MB` | `https://media.githubusercontent.com/media/acheronx0577/Wallpaper-Engine-GIF/main/450p/jia_hagi0826_450P.gif` |
 | 720p | `29.2 MB` | `https://media.githubusercontent.com/media/acheronx0577/Wallpaper-Engine-GIF/main/720p%20or%20672p/jia_hagi0826_720p.gif` |
 
----
+</details>
+
+<details>
+<summary><strong><code>Okkotsu Yuta</code> · JJK · LightMode</strong> — preview, sizes, raw URLs</summary>
 
 ## `Okkotsu Yuta` · JJK · LightMode
 
@@ -68,7 +77,10 @@ This is how a GIF looks when embedded in a GitHub README from [**@acheronx0577**
 | 450p | `9.4 MB` | `https://media.githubusercontent.com/media/acheronx0577/Wallpaper-Engine-GIF/main/450p/Okkotsu_Yuta_450p_LightMode.gif` |
 | 720p | `22.2 MB` | `https://media.githubusercontent.com/media/acheronx0577/Wallpaper-Engine-GIF/main/720p%20or%20672p/Okkotsu_Yuta_720p_LightMode.gif` |
 
----
+</details>
+
+<details>
+<summary><strong><code>Okkotsu Yuta</code> · JJK · DarkMode</strong> — preview, sizes, raw URLs</summary>
 
 ## `Okkotsu Yuta` · JJK · DarkMode
 
@@ -81,7 +93,10 @@ This is how a GIF looks when embedded in a GitHub README from [**@acheronx0577**
 | 450p | `9.6 MB` | `https://media.githubusercontent.com/media/acheronx0577/Wallpaper-Engine-GIF/main/450p/Okkotsu_Yuta_450p_DarkMode.gif` |
 | 720p | `23.8 MB` | `https://media.githubusercontent.com/media/acheronx0577/Wallpaper-Engine-GIF/main/720p%20or%20672p/Okkotsu_Yuta_720p_DarkMode.gif` |
 
----
+</details>
+
+<details>
+<summary><strong>Footer · <code>Koi_Fish_Bond</code></strong> — GIF sizes & raw URLs</summary>
 
 ## Footer · `Koi_Fish_Bond` GIFs
 
@@ -97,7 +112,10 @@ Footer-width animated strips (koi pond / bond theme), exported at three heights.
 | 720p | `18.4 MB` | `https://media.githubusercontent.com/media/acheronx0577/Wallpaper-Engine-GIF/main/Footer/720p/Koi_Fish_Bond_720P.gif` |
 | 1080p | `40.0 MB` | `https://media.githubusercontent.com/media/acheronx0577/Wallpaper-Engine-GIF/main/Footer/1080p/Koi_Fish_Bond_1080P.gif` |
 
----
+</details>
+
+<details>
+<summary><strong>Source · <code>.MOV</code> masters</strong> — stills, filenames, download URLs</summary>
 
 ## Source · `.MOV` masters
 
@@ -110,7 +128,10 @@ Higher-quality sources for Wallpaper Engine, re-encoding, or editing. GitHub doe
 | <img src="./Thumpnail 4K/Okkotsu%20Yuta%20Jujutsu%20Kaisen%204K%20LightMode.webp" width="350" alt="Still: Okkotsu LightMode (MOV)"/> | **File:** `Okkotsu_Yuta_Jujutsu_Kaisen_LightMode.mov`<br/><br/>**Size:** `17.2 MB`<br/><br/>**URL:** `https://media.githubusercontent.com/media/acheronx0577/Wallpaper-Engine-GIF/main/MOV/Okkotsu_Yuta_Jujutsu_Kaisen_LightMode.mov` |
 | <img src="./Thumpnail 4K/Okkotsu%20Yuta%20Jujutsu%20Kaisen%204K%20DarkMode.webp" width="350" alt="Still: Okkotsu DarkMode (MOV)"/> | **File:** `Okkotsu_Yuta_Jujutsu_Kaisen_DarkMode.mov`<br/><br/>**Size:** `6.9 MB`<br/><br/>**URL:** `https://media.githubusercontent.com/media/acheronx0577/Wallpaper-Engine-GIF/main/MOV/Okkotsu_Yuta_Jujutsu_Kaisen_DarkMode.mov` |
 
----
+</details>
+
+<details>
+<summary><strong>File map</strong> — repo folders</summary>
 
 ## File Map
 
@@ -124,7 +145,10 @@ Higher-quality sources for Wallpaper Engine, re-encoding, or editing. GitHub doe
 | `MOV/` | Source QuickTime / intermediate masters |
 | `Thumpnail 4K/` | Still WebP previews for README / cards |
 
----
+</details>
+
+<details>
+<summary><strong>Submit a GIF</strong> — checklist & notes</summary>
 
 ## 📬 Submit a GIF
 
@@ -141,4 +165,6 @@ Want to add your GIF to this showcase? Open an [Issue](https://github.com/achero
 
 > 🛠️ Need help? If you have a GIF but don't have a 4K thumbnail or need it converted to `.webp`, feel free to open an [Issue](https://github.com/acheronx0577/Wallpaper-Engine-GIF/issues) and [**@acheronx0577**](https://github.com/acheronx0577) can help upscale the thumbnail and convert it for you.
 
-> ⚠️ Please try to keep the GIF **under 30 MB** for both 450p and 720p — files above that can be slow to load or fail to preview directly in a GitHub README. 
+> ⚠️ Please try to keep the GIF **under 30 MB** for both 450p and 720p — files above that can be slow to load or fail to preview directly in a GitHub README.
+
+</details>
