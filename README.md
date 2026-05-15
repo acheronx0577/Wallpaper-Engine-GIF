@@ -48,7 +48,7 @@ This is how a GIF looks when embedded in a GitHub README from [**@acheronx0577**
 <div align="left">
   <p><strong>Click here</strong></p>
   <p><span style="font-size: 2em; line-height: 1;">▼</span></p>
-  <p><small>Under this arrow, each row shows <strong>▸</strong> on the left — <strong>click the gray bar</strong> to open thumbnails and raw URLs (click again to close).</small></p>
+  <p><strong>▸</strong>Under this arrow, each row shows thumbnails and raw URLs (click again to close).</small></p>
 </div>
 
 <details>
