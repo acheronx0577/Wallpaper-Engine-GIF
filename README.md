@@ -45,7 +45,11 @@ This is how a GIF looks when embedded in a GitHub README from [**@acheronx0577**
 
 ## Collapsible catalog
 
-The blocks below use GitHub’s built-in **`<details>`** toggles (click the bar to expand). The **Preview example** at the top stays open. **File Map** and **Submit a GIF** are left open further down so folder layout and contribution notes stay visible without an extra click.
+> **👉 New to GitHub? Click here first**
+>
+> Each **gray bar** below (with a **▸** triangle on the left) hides a whole section. **Click the bar once** to open it — you will see thumbnails and **raw URLs** you can copy. Click again to fold it closed.
+
+The blocks below use GitHub’s built-in **`<details>`** toggles (same idea as “accordions”). The **Preview example** at the top stays open. **File Map** and **Submit a GIF** are left open further down so folder layout and contribution notes stay visible without an extra click.
 
 <details>
 <summary><strong><code>jia_hagi0826.gif</code></strong> — author, resolutions, raw URLs</summary>
