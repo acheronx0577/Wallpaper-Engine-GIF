@@ -19,6 +19,13 @@
   <sub>🎨 Banner by <a href="https://www.instagram.com/jia_hagi0826/">@jia_hagi0826</a></sub>
 </p>
 
+<a href="https://www.instagram.com/jia_hagi0826/" target="_blank">
+  <img src="https://media.githubusercontent.com/media/acheronx0577/Wallpaper-Engine-GIF/main/Footer/720p/Koi_Fish_Bond_720P.gif" alt="Bottom banner inspired by @jia_hagi0826" width="100%" />
+</a>
+<p align="right">
+  <sub>🎨 Art style by <a href="https://www.instagram.com/jia_hagi0826/">@jia_hagi0826</a> · AI generated</sub>
+</p>
+
 This is how a GIF looks when embedded in a GitHub README from [**@acheronx0577**](https://github.com/acheronx0577). To use it in your own README, copy one of the URLs below and paste it like this:
 
 **Markdown:**
