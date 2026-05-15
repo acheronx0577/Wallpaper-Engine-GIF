@@ -45,10 +45,10 @@ This is how a GIF looks when embedded in a GitHub README from [**@acheronx0577**
 
 ## Collapsible catalog
 
-<p align="center">
+<p align="left">
   <strong>Click here</strong><br><br>
   <span style="font-size: 2em; line-height: 1;">▼</span><br>
-  <sub>New to GitHub? The arrow points at the <strong>▸</strong> triangle — <strong>click that gray bar</strong> to open URLs and tables.</sub>
+  <sub><strong>▸</strong> triangle — <strong>click that gray bar</strong> to open URLs and tables.</sub>
 </p>
 
 <details>
