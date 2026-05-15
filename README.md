@@ -70,6 +70,19 @@ This is how a GIF looks when embedded in a GitHub README from [**@acheronx0577**
 
 ---
 
+## `Okkotsu Yuta` · JJK · DarkMode
+
+| Preview | Details |
+|---------|---------|
+| <img src="./Thumpnail 4K/Okkotsu%20Yuta%20Jujutsu%20Kaisen%204K%20DarkMode.webp" width="350" alt="Okkotsu Yuta DarkMode (still preview)"/> | **Subject:** Fan animation of **Okkotsu Yuta** from [*Jujutsu Kaisen*](https://en.wikipedia.org/wiki/Jujutsu_Kaisen) (Gege Akutami / MAPPA).<br/><br/>**Variant:** **DarkMode** — deeper grade for dark wallpapers / night use.<br/><br/>**Creator:** [MALF](https://steamcommunity.com/id/malf40) · [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3707010495) |
+
+| Resolution | Size | URL |
+|------------|------|-----|
+| 450p | `9.6 MB` | `https://media.githubusercontent.com/media/acheronx0577/Wallpaper-Engine-GIF/main/450p/Okkotsu_Yuta_450p_DarkMode.gif` |
+| 720p | `23.8 MB` | `https://media.githubusercontent.com/media/acheronx0577/Wallpaper-Engine-GIF/main/720p%20or%20672p/Okkotsu_Yuta_720p_DarkMode.gif` |
+
+---
+
 ## Footer · `Koi_Fish_Bond` GIFs
 
 Footer-width animated strips (koi pond / bond theme), exported at three heights. The **1080p** file is over **30 MB** — prefer **450p** or **720p** for embedding in a GitHub README; use 1080p when you need the extra detail locally or in Wallpaper Engine.
@@ -95,6 +108,7 @@ Higher-quality sources for Wallpaper Engine, re-encoding, or editing. GitHub doe
 | jia_hagi0826 | `11.8 MB` | `https://media.githubusercontent.com/media/acheronx0577/Wallpaper-Engine-GIF/main/MOV/jia_hagi0826.MOV` |
 | Koi_Fish_Bond | `5.1 MB` | `https://media.githubusercontent.com/media/acheronx0577/Wallpaper-Engine-GIF/main/MOV/Koi_Fish_Bond.MOV` |
 | Okkotsu Yuta · LightMode | `17.2 MB` | `https://media.githubusercontent.com/media/acheronx0577/Wallpaper-Engine-GIF/main/MOV/Okkotsu_Yuta_Jujutsu_Kaisen_LightMode.mov` |
+| Okkotsu Yuta · DarkMode | `6.9 MB` | `https://media.githubusercontent.com/media/acheronx0577/Wallpaper-Engine-GIF/main/MOV/Okkotsu_Yuta_Jujutsu_Kaisen_DarkMode.mov` |
 
 ---
 
