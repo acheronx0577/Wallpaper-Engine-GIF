@@ -45,7 +45,7 @@ This is how a GIF looks when embedded in a GitHub README from [**@acheronx0577**
 
 ## Collapsible catalog
 
-The blocks below use GitHub’s built-in **`<details>`** toggles (click the bar to expand). Everything above stays open so previews and tips stay visible.
+The blocks below use GitHub’s built-in **`<details>`** toggles (click the bar to expand). The **Preview example** at the top stays open. **File Map** and **Submit a GIF** are left open further down so folder layout and contribution notes stay visible without an extra click.
 
 <details>
 <summary><strong><code>jia_hagi0826.gif</code></strong> — author, resolutions, raw URLs</summary>
@@ -130,8 +130,7 @@ Higher-quality sources for Wallpaper Engine, re-encoding, or editing. GitHub doe
 
 </details>
 
-<details>
-<summary><strong>File map</strong> — repo folders</summary>
+---
 
 ## File Map
 
@@ -145,10 +144,7 @@ Higher-quality sources for Wallpaper Engine, re-encoding, or editing. GitHub doe
 | `MOV/` | Source QuickTime / intermediate masters |
 | `Thumpnail 4K/` | Still WebP previews for README / cards |
 
-</details>
-
-<details>
-<summary><strong>Submit a GIF</strong> — checklist & notes</summary>
+---
 
 ## 📬 Submit a GIF
 
@@ -166,5 +162,3 @@ Want to add your GIF to this showcase? Open an [Issue](https://github.com/achero
 > 🛠️ Need help? If you have a GIF but don't have a 4K thumbnail or need it converted to `.webp`, feel free to open an [Issue](https://github.com/acheronx0577/Wallpaper-Engine-GIF/issues) and [**@acheronx0577**](https://github.com/acheronx0577) can help upscale the thumbnail and convert it for you.
 
 > ⚠️ Please try to keep the GIF **under 30 MB** for both 450p and 720p — files above that can be slow to load or fail to preview directly in a GitHub README.
-
-</details>
