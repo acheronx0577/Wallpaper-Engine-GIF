@@ -47,6 +47,7 @@ This is how a GIF looks when embedded in a GitHub README from [**@acheronx0577**
 
 <div align="left">
   <p><strong>Click here</strong></p>
+  <p><span style="font-size: 2em; line-height: 1;">||</span></p>
   <p><span style="font-size: 2em; line-height: 1;">▼</span></p>
 </div>
 
